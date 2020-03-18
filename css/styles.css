@@ -6,3 +6,8 @@ img.best {
   color: red;
   font-style: italic;
 }
+
+.good img {
+  display: block;
+  margin: 0; auto;
+}
